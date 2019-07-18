@@ -55,7 +55,7 @@ More rapport with customers needs to be built within Southern and Northern Europ
 ## Question 4
 <a href="4_Employee_Performance.ipynb">Employee Performance</a>
 
-Are there significant differences between demand for various customer regions?
+Are there statistically significant differences in the average annual gross revenue between employees?
 𝐻𝑜:𝜇1=𝜇2=...=𝜇𝑛
 𝐻𝑎:𝜇1≠𝜇𝑖
 
