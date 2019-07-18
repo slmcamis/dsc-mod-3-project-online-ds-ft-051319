@@ -5,19 +5,13 @@ Northwind Traders is a fictitious company that connects buyers and sellers aroun
 
 <a href="0_Data_Exploration.ipynb">Data Exploration</a>
 
-<a href="1_Discounts.ipynb">Discounts</a>
-
-<a href="2_Product_Category.ipynb">Product Category</a>
-
-<a href="3_Customer_Region.ipynb">Customer Region</a>
-
-<a href="4_Employee_Performance.ipynb">Employee Performance</a>
-
 <a href="https://docs.google.com/presentation/d/13S-cCuHyVbKEIIxlDAow6rFU5phzE8Ck90G_k4r0l5E/edit?usp=sharing">Presentation</a>
 
 <a href="https://medium.com/@savannahmcamis/hypothesis-testing-for-discounts-6fdd56a953f">Blog Post</a>
 
 ## Question 1
+<a href="1_Discounts.ipynb">Discounts</a>
+
 Does discount amount have a statistically significant effect on the quantity of a product in an order? If so, at what level(s) of discount?
 𝐻𝑜:𝜇1=𝜇2
 𝐻𝑎:𝜇1<𝜇2
@@ -33,6 +27,8 @@ I recommend that Northwind offer discounts of 5% as an incentive to increase qua
 
 
 ## Question 2
+<a href="2_Product_Category.ipynb">Product Category</a>
+
 Do some types of products bring in more gross revenue than others?
 𝐻𝑜:𝜇1=𝜇2=...=𝜇𝑛
 𝐻𝑎:𝜇1<𝜇𝑖
@@ -44,6 +40,8 @@ The two categories that bring in the highest average gross revenue are Meat/Poul
 I recommend that Northwinds focus their sales efforts toward products in the categories of Produce and Meat/Poultry as these categories bring in the highest average gross revenue.
 
 ## Question 3
+<a href="3_Customer_Region.ipynb">Customer Region</a>
+
 Are there significant differences between demand for various customer regions?
 𝐻𝑜:𝜇1=𝜇2=...=𝜇𝑛
 𝐻𝑎:𝜇1≠𝜇𝑖
@@ -55,6 +53,8 @@ When comparing the regions, I determined that the largest and most profitable or
 More rapport with customers needs to be built within Southern and Northern Europe. Additionally, more time should be spent on these customers because typically their orders are smaller. I would recommend hiring a product manager who has experience in those regions to help boost sales there.
 
 ## Question 4
+<a href="4_Employee_Performance.ipynb">Employee Performance</a>
+
 Are there significant differences between demand for various customer regions?
 𝐻𝑜:𝜇1=𝜇2=...=𝜇𝑛
 𝐻𝑎:𝜇1≠𝜇𝑖
