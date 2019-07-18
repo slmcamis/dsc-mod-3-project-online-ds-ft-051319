@@ -3,6 +3,8 @@
 
 Northwind Traders is a fictitious company that connects buyers and sellers around the world. I have investigated 4 questions using hypothesis testing and provided recommendations for furthing company growth.
 
+<a href="https://docs.google.com/presentation/d/13S-cCuHyVbKEIIxlDAow6rFU5phzE8Ck90G_k4r0l5E/edit?usp=sharing">Presentation</a>
+
 ## Question 1
 Does discount amount have a statistically significant effect on the quantity of a product in an order? If so, at what level(s) of discount?
 𝐻𝑜:𝜇1=𝜇2
