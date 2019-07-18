@@ -13,6 +13,7 @@ Northwind Traders is a fictitious company that connects buyers and sellers aroun
 <a href="1_Discounts.ipynb">Discounts</a>
 
 Does discount amount have a statistically significant effect on the quantity of a product in an order? If so, at what level(s) of discount?
+
 𝐻𝑜:𝜇1=𝜇2
 𝐻𝑎:𝜇1<𝜇2
 
@@ -30,6 +31,7 @@ I recommend that Northwind offer discounts of 5% as an incentive to increase qua
 <a href="2_Product_Category.ipynb">Product Category</a>
 
 Do some types of products bring in more gross revenue than others?
+
 𝐻𝑜:𝜇1=𝜇2=...=𝜇𝑛
 𝐻𝑎:𝜇1<𝜇𝑖
 
@@ -43,6 +45,7 @@ I recommend that Northwinds focus their sales efforts toward products in the cat
 <a href="3_Customer_Region.ipynb">Customer Region</a>
 
 Are there significant differences between demand for various customer regions?
+
 𝐻𝑜:𝜇1=𝜇2=...=𝜇𝑛
 𝐻𝑎:𝜇1≠𝜇𝑖
 
@@ -56,6 +59,7 @@ More rapport with customers needs to be built within Southern and Northern Europ
 <a href="4_Employee_Performance.ipynb">Employee Performance</a>
 
 Are there statistically significant differences in the average annual gross revenue between employees?
+
 𝐻𝑜:𝜇1=𝜇2=...=𝜇𝑛
 𝐻𝑎:𝜇1≠𝜇𝑖
 
